@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Johnson-trotter.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <Image Include="XING.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>
