@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="Johnson-trotter.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="算法说明.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
