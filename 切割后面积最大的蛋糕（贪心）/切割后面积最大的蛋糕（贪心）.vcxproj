@@ -144,6 +144,11 @@
   <ItemGroup>
     <None Include="算法说明.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="07ff9a76-767a-4ac0-81f4-8845f5587f3e.png" />
+    <Image Include="c6de6957-6477-4855-b876-21634f68d14e.png" />
+    <Image Include="f2477b68-5b3b-49d5-9feb-a81b4da5fa99.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

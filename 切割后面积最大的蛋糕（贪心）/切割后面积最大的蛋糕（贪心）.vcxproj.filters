@@ -24,4 +24,15 @@
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="07ff9a76-767a-4ac0-81f4-8845f5587f3e.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="c6de6957-6477-4855-b876-21634f68d14e.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="f2477b68-5b3b-49d5-9feb-a81b4da5fa99.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
