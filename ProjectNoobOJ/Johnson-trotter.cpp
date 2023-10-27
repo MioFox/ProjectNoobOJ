@@ -5,11 +5,13 @@ using namespace std;
 vector<int> nums;   //元素数组
 vector<int> dir;    //方向数组（0表示左移，1表示右移）
 int n;  //元素数组大小
+int ans = 0;    //组合数量
 
 void Print()
 {
 	for (int i = 0; i < n; i++)  cout << nums[i] << " ";
 	cout << endl;
+	ans++;
 }
 
 void changeDir(int num)      //调转比当前移动元素更大的所有元素的方向
@@ -95,5 +97,6 @@ int main()
 		}
 		else break;
 	}
+	cout <<"组合数量为"<< ans << endl;
 	return 0;
 }
