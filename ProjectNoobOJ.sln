@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "从数量最多的堆取礼
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "H指数（二分查找）", "H指数（二分查找）\H指数（二分查找）.vcxproj", "{C34917B2-D41E-4808-964A-577F549AB9FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "环和杆（位运算）", "环和杆（位运算）\环和杆（位运算）.vcxproj", "{BCB97860-F9F7-419E-885C-F53E1C36FB0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{C34917B2-D41E-4808-964A-577F549AB9FB}.Release|x64.Build.0 = Release|x64
 		{C34917B2-D41E-4808-964A-577F549AB9FB}.Release|x86.ActiveCfg = Release|Win32
 		{C34917B2-D41E-4808-964A-577F549AB9FB}.Release|x86.Build.0 = Release|Win32
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Debug|x64.ActiveCfg = Debug|x64
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Debug|x64.Build.0 = Debug|x64
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Debug|x86.Build.0 = Debug|Win32
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x64.ActiveCfg = Release|x64
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x64.Build.0 = Release|x64
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x86.ActiveCfg = Release|Win32
+		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
