@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\填充节点的右侧节点指针（BFS）\CODE（BFS）.cpp">
+    <ClCompile Include="CODE（BFS）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\填充节点的右侧节点指针（BFS）\算法说明.md">
-      <Filter>资源文件</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\填充节点的右侧节点指针（BFS）\示例.png">
+    <Image Include="示例.png">
       <Filter>资源文件</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="算法说明.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
