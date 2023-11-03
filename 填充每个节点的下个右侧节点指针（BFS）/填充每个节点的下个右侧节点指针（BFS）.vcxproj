@@ -24,6 +24,7 @@
     <ProjectGuid>{58b9efdd-b1fe-46e2-8127-b9beffb40b5d}</ProjectGuid>
     <RootNamespace>填充每个节点的下个右侧节点指针BFS</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>填充节点的右侧节点指针（BFS）</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
