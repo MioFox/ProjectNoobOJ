@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "H指数（二分查找）",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "环和杆（位运算）", "环和杆（位运算）\环和杆（位运算）.vcxproj", "{BCB97860-F9F7-419E-885C-F53E1C36FB0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "填充每个节点的下个右侧节点指针（BFS）", "填充每个节点的下个右侧节点指针（BFS）\填充每个节点的下个右侧节点指针（BFS）.vcxproj", "{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x64.Build.0 = Release|x64
 		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x86.ActiveCfg = Release|Win32
 		{BCB97860-F9F7-419E-885C-F53E1C36FB0E}.Release|x86.Build.0 = Release|Win32
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Debug|x64.ActiveCfg = Debug|x64
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Debug|x64.Build.0 = Debug|x64
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Debug|x86.Build.0 = Debug|Win32
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Release|x64.ActiveCfg = Release|x64
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Release|x64.Build.0 = Release|x64
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Release|x86.ActiveCfg = Release|Win32
+		{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
