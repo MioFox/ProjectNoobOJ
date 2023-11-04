@@ -15,7 +15,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "H指数（二分查找）",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "环和杆（位运算）", "环和杆（位运算）\环和杆（位运算）.vcxproj", "{BCB97860-F9F7-419E-885C-F53E1C36FB0E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "填充每个节点的下个右侧节点指针（BFS）", "填充每个节点的下个右侧节点指针（BFS）\填充每个节点的下个右侧节点指针（BFS）.vcxproj", "{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "填充节点的右侧节点指针（BFS）", "填充节点的右侧节点指针（BFS）\填充每个节点的下个右侧节点指针（BFS）.vcxproj", "{58B9EFDD-B1FE-46E2-8127-B9BEFFB40B5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

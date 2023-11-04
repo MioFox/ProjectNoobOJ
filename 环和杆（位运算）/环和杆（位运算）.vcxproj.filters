@@ -23,5 +23,8 @@
     <None Include="算法说明.md">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="421（位运算+哈希表）.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
