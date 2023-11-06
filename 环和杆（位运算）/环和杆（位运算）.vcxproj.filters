@@ -26,5 +26,8 @@
     <None Include="421（位运算+哈希表）.md">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="最大单词长度乘积（位运算）.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

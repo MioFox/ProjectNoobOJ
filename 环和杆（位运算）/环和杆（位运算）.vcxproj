@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="421（位运算+哈希表）.md" />
+    <None Include="最大单词长度乘积（位运算）.md" />
     <None Include="算法说明.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
